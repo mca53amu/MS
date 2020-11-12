@@ -1,3 +1,5 @@
+For problem statements and data import go to src/main/resources/documents
+
 Prerequisites-
 Run MongoDB on port 27017
 
