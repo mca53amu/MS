@@ -28,7 +28,7 @@ public class ValidatorInterceptor implements HandlerInterceptor {
 
 		request.getParameterMap().forEach((parameter, values) -> {
 			Arrays.stream(values).forEach(value -> { //
-				if (StringUtils.isEmpty(value) && !Pattern.matches(ALLOWED_PATTERN, value)) {
+				if (!StringUtils.isEmpty(value) && !Pattern.matches(ALLOWED_PATTERN, value)) {
 					throw new ApiException(ApiFailMessage.API_VALIDATION_NOT_ALLOWED_CHARACTER);
 				}
 			});
