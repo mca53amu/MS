@@ -18,18 +18,9 @@ public class ErrorResponse {
 
 	private List<FieldError> errors;
 	
-	private String trackingId;
 
-	public ErrorResponse(String errorCode, String trackingId,List<FieldError> errors) {
+	public ErrorResponse(String errorCode) {
 		this.errorCode = errorCode;
-		this.errors = errors;
-		this.trackingId=trackingId;
-	}
-	
-
-	public ErrorResponse(String errorCode, String trackingId) {
-		this.errorCode = errorCode;
-		this.trackingId=trackingId;
 	}
 
 }
