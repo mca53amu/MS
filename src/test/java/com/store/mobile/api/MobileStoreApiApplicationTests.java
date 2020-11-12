@@ -11,6 +11,8 @@ import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMock
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.util.LinkedMultiValueMap;
+
+import com.store.mobile.api.interceptor.ApiFailMessage;
 /**
  * 
  * @author mohammad.miyan
@@ -54,6 +56,15 @@ class MobileStoreApiApplicationTests {
 		requestParams.add("announceDate", "1999");
 		mvc.perform(get("/mobile/search").params(requestParams)).andExpect(status().isOk())
 		.andExpect(jsonPath("$.totalRecords", is(2)));
+
+	}
+	
+	@Test
+	public void shouldReturnErrorCode() throws Exception {
+		LinkedMultiValueMap<String, String> requestParams = new LinkedMultiValueMap<>();
+		requestParams.add("sim", "eSim$");
+		mvc.perform(get("/mobile/search").params(requestParams)).andExpect(status().isInternalServerError())
+		.andExpect(jsonPath("$.errorCode",is(ApiFailMessage.API_VALIDATION_NOT_ALLOWED_CHARACTER)));
 
 	}
 
