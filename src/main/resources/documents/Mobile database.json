@@ -1,0 +1,1786 @@
+[{
+		"id": 25846,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 12.9 (2018)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2018.jpg",
+		"release": {
+			"announceDate": "2018 October",
+			"priceEur": 1100
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "2048 x 2732 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 9720 mAh battery (36.71 Wh)"
+		}
+	},
+	{
+		"id": 22895,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 11",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2018.jpg",
+		"release": {
+			"announceDate": "2018 October",
+			"priceEur": 880
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1668 x 2388 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 7812 mAh battery (29.45 Wh)"
+		}
+	},
+	{
+		"id": 28136,
+		"brand": "Apple",
+		"phone": "Apple iPhone XS Max",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+		"release": {
+			"announceDate": "2018 September",
+			"priceEur": 1250
+		},
+		"sim": "Single SIM",
+		"resolution": "1242 x 2688 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 3174 mAh battery"
+		}
+	},
+	{
+		"id": 24989,
+		"brand": "Apple",
+		"phone": "Apple iPhone XS",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+		"release": {
+			"announceDate": "2018 September",
+			"priceEur": 1150
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1125 x 2436 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2658 mAh battery (10.13 Wh)"
+		}
+	},
+	{
+		"id": 28994,
+		"brand": "Apple",
+		"phone": "Apple iPhone XR",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+		"release": {
+			"announceDate": "2018 September",
+			"priceEur": 850
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "828 x 1792 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2942 mAh battery"
+		}
+	},
+	{
+		"id": 28298,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 4",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-series-4-steel.jpg",
+		"release": {
+			"announceDate": "2018 September",
+			"priceEur": 700
+		},
+		"sim": "eSIM",
+		"resolution": "448 x 368 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion battery"
+		}
+	},
+	{
+		"id": 23131,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 4 Aluminum",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-series-4-aluminum.jpg",
+		"release": {
+			"announceDate": "2018 September",
+			"priceEur": 430
+		},
+		"sim": "eSIM",
+		"resolution": "448 x 368 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion battery"
+		}
+	},
+	{
+		"id": 24748,
+		"brand": "Apple",
+		"phone": "Apple iPad 9.7 (2018)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-97-2018.jpg",
+		"release": {
+			"announceDate": "2018 March",
+			"priceEur": 350
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion battery (32.4 Wh)"
+		}
+	},
+	{
+		"id": 29190,
+		"brand": "Apple",
+		"phone": "Apple iPhone X",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 1000
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1125 x 2436 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2716 mAh battery (10.35 Wh)"
+		}
+	},
+	{
+		"id": 22076,
+		"brand": "Apple",
+		"phone": "Apple iPhone 8 Plus",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-8-plus-new.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 770
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1080 x 1920 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2691 mAh battery (10.28 Wh)"
+		}
+	},
+	{
+		"id": 21294,
+		"brand": "Apple",
+		"phone": "Apple iPhone 8",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 700
+		},
+		"sim": "Nano-SIM",
+		"resolution": "750 x 1334 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 1821 mAh battery (6.96 Wh)"
+		}
+	},
+	{
+		"id": 28977,
+		"brand": "Apple",
+		"phone": "Apple Watch Edition Series 3",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-series3.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 1450
+		},
+		"sim": "eSIM",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 279 mAh battery (1.07 Wh) - 38mm version"
+		}
+	},
+	{
+		"id": 29976,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 3",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-series3-.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 700
+		},
+		"sim": "eSIM",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 279 mAh battery (1.07 Wh) - 38mm version"
+		}
+	},
+	{
+		"id": 20504,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 3 Aluminum",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-series3-sport-.jpg",
+		"release": {
+			"announceDate": "2017 September",
+			"priceEur": 480
+		},
+		"sim": "eSIM",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 279 mAh battery (1.07 Wh) - 38mm version"
+		}
+	},
+	{
+		"id": 25865,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 12.9 (2017)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2017.jpg",
+		"release": {
+			"announceDate": "2017 June",
+			"priceEur": 900
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "2732 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 10891 mAh battery (41 Wh)"
+		}
+	},
+	{
+		"id": 28335,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 10.5 (2017)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-105-2017.jpg",
+		"release": {
+			"announceDate": "2017 June",
+			"priceEur": 730
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1668 x 2224 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 8134 mAh battery (30.8 Wh)"
+		}
+	},
+	{
+		"id": 23770,
+		"brand": "Apple",
+		"phone": "Apple iPad 9.7 (2017)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-97-2017.jpg",
+		"release": {
+			"announceDate": "2017 March",
+			"priceEur": 390
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 8827 mAh battery (32.9 Wh)"
+		}
+	},
+	{
+		"id": 27083,
+		"brand": "Apple",
+		"phone": "Apple Watch Edition Series 2 42mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-edition-42mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 1500
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 334 mAh battery (1.27 Wh)"
+		}
+	},
+	{
+		"id": 22688,
+		"brand": "Apple",
+		"phone": "Apple Watch Edition Series 2 38mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-edition-38mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 1450
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 273 mAh battery (1.03 Wh)"
+		}
+	},
+	{
+		"id": 22349,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 2 42mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-42mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 700
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 334 mAh battery (1.27 Wh)"
+		}
+	},
+	{
+		"id": 20288,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 2 38mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-38mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 650
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 273 mAh battery (1.03 Wh)"
+		}
+	},
+	{
+		"id": 29180,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 2 Aluminum 42mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-42mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 450
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 334 mAh battery (1.27 Wh)"
+		}
+	},
+	{
+		"id": 22679,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 1 Aluminum 42mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch1-sport-42mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 300
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 250 mAh battery (0.94 Wh)"
+		}
+	},
+	{
+		"id": 23648,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 2 Aluminum 38mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 420
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with GLONASS",
+			"battery": "Li-Ion 273 mAh battery (1.03 Wh)"
+		}
+	},
+	{
+		"id": 27983,
+		"brand": "Apple",
+		"phone": "Apple Watch Series 1 Aluminum 38mm",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 270
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 205 mAh battery (0.78 Wh)"
+		}
+	},
+	{
+		"id": 27667,
+		"brand": "Apple",
+		"phone": "Apple iPhone 7 Plus",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 690
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1080 x 1920 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2900 mAh battery (11.1 Wh)"
+		}
+	},
+	{
+		"id": 27103,
+		"brand": "Apple",
+		"phone": "Apple iPhone 7",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg",
+		"release": {
+			"announceDate": "2016 September",
+			"priceEur": 550
+		},
+		"sim": "Nano-SIM",
+		"resolution": "750 x 1334 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 1960 mAh battery (7.45 Wh)"
+		}
+	},
+	{
+		"id": 27459,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 9.7 (2016)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-97.jpg",
+		"release": {
+			"announceDate": "2016 March",
+			"priceEur": 690
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 7306 mAh battery (27.9 Wh)"
+		}
+	},
+	{
+		"id": 23675,
+		"brand": "Apple",
+		"phone": "Apple iPhone SE",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5se-ofic.jpg",
+		"release": {
+			"announceDate": "2016 March",
+			"priceEur": 300
+		},
+		"sim": "Nano-SIM",
+		"resolution": "640 x 1136 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1624 mAh battery (6.21 Wh)"
+		}
+	},
+	{
+		"id": 26250,
+		"brand": "Apple",
+		"phone": "Apple iPhone 6s Plus",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg",
+		"release": {
+			"announceDate": "2015 September",
+			"priceEur": 470
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1080 x 1920 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 2750 mAh battery (10.45 Wh)"
+		}
+	},
+	{
+		"id": 28969,
+		"brand": "Apple",
+		"phone": "Apple iPhone 6s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s1.jpg",
+		"release": {
+			"announceDate": "2015 September",
+			"priceEur": 500
+		},
+		"sim": "Nano-SIM",
+		"resolution": "750 x 1334 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 1715 mAh battery (6.91 Wh)"
+		}
+	},
+	{
+		"id": 28633,
+		"brand": "Apple",
+		"phone": "Apple iPad Pro 12.9 (2015)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-.jpg",
+		"release": {
+			"announceDate": "2015 September",
+			"priceEur": 850
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "2048 x 2732 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 10307 mAh battery (38.8 Wh)"
+		}
+	},
+	{
+		"id": 27732,
+		"brand": "Apple",
+		"phone": "Apple iPad mini 4",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ipad-mini-41.jpg",
+		"release": {
+			"announceDate": "2015 September",
+			"priceEur": 360
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion 5124 mAh battery (19.1 Wh)"
+		}
+	},
+	{
+		"id": 29646,
+		"brand": "Apple",
+		"phone": "Apple Watch Edition 42mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-42mm.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 13000
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 250 mAh battery (0.94 Wh)"
+		}
+	},
+	{
+		"id": 21756,
+		"brand": "Apple",
+		"phone": "Apple Watch Edition 38mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-38mm.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 11000
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 205 mAh battery (0.78 Wh)"
+		}
+	},
+	{
+		"id": 29217,
+		"brand": "Apple",
+		"phone": "Apple Watch 42mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-42mm.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 700
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 250 mAh battery (0.94 Wh)"
+		}
+	},
+	{
+		"id": 25994,
+		"brand": "Apple",
+		"phone": "Apple Watch 38mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-38mm.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 650
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 205 mAh battery (0.78 Wh)"
+		}
+	},
+	{
+		"id": 28948,
+		"brand": "Apple",
+		"phone": "Apple Watch Sport 42mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-sport-42mm2.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 250
+		},
+		"sim": "No",
+		"resolution": "390 x 312 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 250 mAh battery (0.94 Wh)"
+		}
+	},
+	{
+		"id": 27722,
+		"brand": "Apple",
+		"phone": "Apple Watch Sport 38mm (1st gen)",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-watch-sport-38mm.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 250
+		},
+		"sim": "No",
+		"resolution": "340 x 272 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Li-Ion 205 mAh battery (0.78 Wh)"
+		}
+	},
+	{
+		"id": 26310,
+		"brand": "Apple",
+		"phone": "Apple iPad Air 2",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-air-2-new.jpg",
+		"release": {
+			"announceDate": "2014 October",
+			"priceEur": 440
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 7340 mAh battery (27.62 Wh)"
+		}
+	},
+	{
+		"id": 25928,
+		"brand": "Apple",
+		"phone": "Apple iPad mini 3",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-3-new.jpg",
+		"release": {
+			"announceDate": "2014 October",
+			"priceEur": 400
+		},
+		"sim": "Nano-SIM eSIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 6470 mAh battery (24.3 Wh)"
+		}
+	},
+	{
+		"id": 28011,
+		"brand": "Apple",
+		"phone": "Apple iPhone 6 Plus",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 420
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1080 x 1920 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 2915 mAh battery (11.1 Wh)"
+		}
+	},
+	{
+		"id": 29896,
+		"brand": "Apple",
+		"phone": "Apple iPhone 6",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-4.jpg",
+		"release": {
+			"announceDate": "2014 September",
+			"priceEur": 360
+		},
+		"sim": "Nano-SIM",
+		"resolution": "750 x 1334 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1810 mAh battery (6.9 Wh)"
+		}
+	},
+	{
+		"id": 25065,
+		"brand": "Apple",
+		"phone": "Apple iPad Air",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-air.jpg",
+		"release": {
+			"announceDate": "2013 October",
+			"priceEur": 350
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 8600 mAh battery (32.4 Wh)"
+		}
+	},
+	{
+		"id": 25255,
+		"brand": "Apple",
+		"phone": "Apple iPad mini 2",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini2.jpg",
+		"release": {
+			"announceDate": "2013 October",
+			"priceEur": 270
+		},
+		"sim": "Nano-SIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 6470 mAh battery (24.3 Wh)"
+		}
+	},
+	{
+		"id": 21113,
+		"brand": "Apple",
+		"phone": "Apple iPhone 5s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5s-ofic.jpg",
+		"release": {
+			"announceDate": "2013 September",
+			"priceEur": 330
+		},
+		"sim": "Nano-SIM",
+		"resolution": "640 x 1136 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1560 mAh battery (5.92 Wh)"
+		}
+	},
+	{
+		"id": 20336,
+		"brand": "Apple",
+		"phone": "Apple iPhone 5c",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5c-new2.jpg",
+		"release": {
+			"announceDate": "2013 September",
+			"priceEur": 300
+		},
+		"sim": "Nano-SIM",
+		"resolution": "640 x 1136 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1510 mAh battery (5.73 Wh)"
+		}
+	},
+	{
+		"id": 27999,
+		"brand": "Apple",
+		"phone": "Apple iPad mini Wi-Fi",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+		"release": {
+			"announceDate": "2012 October",
+			"priceEur": 200
+		},
+		"sim": "No",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Po 4490 mAh battery (16.7 Wh)"
+		}
+	},
+	{
+		"id": 24985,
+		"brand": "Apple",
+		"phone": "Apple iPad mini Wi-Fi + Cellular",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+		"release": {
+			"announceDate": "2012 October",
+			"priceEur": 300
+		},
+		"sim": "Nano-SIM",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 4490 mAh battery (16.7 Wh)"
+		}
+	},
+	{
+		"id": 20866,
+		"brand": "Apple",
+		"phone": "Apple iPad 4 Wi-Fi",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+		"release": {
+			"announceDate": "2012 October",
+			"priceEur": 350
+		},
+		"sim": "No",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Po 11560 mAh battery (42.5 Wh)"
+		}
+	},
+	{
+		"id": 27504,
+		"brand": "Apple",
+		"phone": "Apple iPad 4 Wi-Fi + Cellular",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+		"release": {
+			"announceDate": "2012 October",
+			"priceEur": 500
+		},
+		"sim": "Micro-SIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 11560 mAh battery (42.5 Wh)"
+		}
+	},
+	{
+		"id": 22621,
+		"brand": "Apple",
+		"phone": "Apple iPhone 5",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5-ofic.jpg",
+		"release": {
+			"announceDate": "2012 September",
+			"priceEur": 340
+		},
+		"sim": "Nano-SIM",
+		"resolution": "640 x 1136 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1440 mAh battery (5.45 Wh)"
+		}
+	},
+	{
+		"id": 21013,
+		"brand": "Apple",
+		"phone": "Apple iPad 3 Wi-Fi + Cellular",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+		"release": {
+			"announceDate": "2012 March",
+			"priceEur": 400
+		},
+		"sim": "Micro-SIM",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 11560 mAh battery (42.5 Wh)"
+		}
+	},
+	{
+		"id": 29997,
+		"brand": "Apple",
+		"phone": "Apple iPad 3 Wi-Fi",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+		"release": {
+			"announceDate": "2012 March",
+			"priceEur": 290
+		},
+		"sim": "No",
+		"resolution": "1536 x 2048 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Po 11560 mAh battery (42.5 Wh)"
+		}
+	},
+	{
+		"id": 26657,
+		"brand": "Apple",
+		"phone": "Apple iPhone 4s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-4s-new.jpg",
+		"release": {
+			"announceDate": "2011 October",
+			"priceEur": 190
+		},
+		"sim": "Micro-SIM",
+		"resolution": "640 x 960 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1432 mAh battery (5.3 Wh)"
+		}
+	},
+	{
+		"id": 20372,
+		"brand": "Apple",
+		"phone": "Apple iPad 2 Wi-Fi + 3G",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+		"release": {
+			"announceDate": "2011 March",
+			"priceEur": 370
+		},
+		"sim": "Micro-SIM",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 6930 mAh battery (25 Wh)"
+		}
+	},
+	{
+		"id": 29709,
+		"brand": "Apple",
+		"phone": "Apple iPad 2 Wi-Fi",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+		"release": {
+			"announceDate": "2011 March",
+			"priceEur": 200
+		},
+		"sim": "No",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Po 6930 mAh battery (25 Wh)"
+		}
+	},
+	{
+		"id": 20551,
+		"brand": "Apple",
+		"phone": "Apple iPad 2 CDMA",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+		"release": {
+			"announceDate": "2011 March",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 6930 mAh battery (25 Wh)"
+		}
+	},
+	{
+		"id": 25494,
+		"brand": "Apple",
+		"phone": "Apple iPhone 4",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-4-ofic-final.jpg",
+		"release": {
+			"announceDate": "2010 June",
+			"priceEur": 200
+		},
+		"sim": "Micro-SIM",
+		"resolution": "640 x 960 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1420 mAh battery"
+		}
+	},
+	{
+		"id": 27852,
+		"brand": "Apple",
+		"phone": "Apple iPhone 4 CDMA",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone4-cdma.jpg",
+		"release": {
+			"announceDate": "2011 January",
+			"priceEur": 150
+		},
+		"sim": "Micro-SIM",
+		"resolution": "640 x 960 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 1420 mAh battery"
+		}
+	},
+	{
+		"id": 29263,
+		"brand": "Apple",
+		"phone": "Apple iPad Wi-Fi + 3G",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-original.jpg",
+		"release": {
+			"announceDate": "2010 January",
+			"priceEur": 410
+		},
+		"sim": "Micro-SIM",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Po 6600 mAh battery (24.8 Wh)"
+		}
+	},
+	{
+		"id": 25492,
+		"brand": "Apple",
+		"phone": "Apple iPad Wi-Fi",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-original.jpg",
+		"release": {
+			"announceDate": "2010 January",
+			"priceEur": 310
+		},
+		"sim": "No",
+		"resolution": "768 x 1024 pixels",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Po 6600 mAh battery (24.8 Wh)"
+		}
+	},
+	{
+		"id": 24557,
+		"brand": "Apple",
+		"phone": "Apple iPhone 3GS",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg",
+		"release": {
+			"announceDate": "2009 June",
+			"priceEur": 110
+		},
+		"sim": "Mini-SIM",
+		"resolution": "320 x 480 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion battery"
+		}
+	},
+	{
+		"id": 26740,
+		"brand": "Apple",
+		"phone": "Apple iPhone 3G",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone3g.jpg",
+		"release": {
+			"announceDate": "2008 June",
+			"priceEur": 90
+		},
+		"sim": "Mini-SIM",
+		"resolution": "320 x 480 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "Yes with A-GPS",
+			"battery": "Li-Ion battery"
+		}
+	},
+	{
+		"id": 25105,
+		"brand": "Apple",
+		"phone": "Apple iPhone",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone.gif",
+		"release": {
+			"announceDate": "2007 January",
+			"priceEur": 420
+		},
+		"sim": "Mini-SIM",
+		"resolution": "320 x 480 pixels ",
+		"hardware": {
+			"audioJack": "Yes",
+			"gps": "No",
+			"battery": "Li-Ion battery"
+		}
+	},
+	{
+		"id": 25124,
+		"brand": "Ericsson",
+		"phone": "Ericsson R600",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err600.gif",
+		"release": {
+			"announceDate": "2001 Q4",
+			"priceEur": 700
+		},
+		"sim": "Mini-SIM",
+		"resolution": "5 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Ion (BST-20)"
+		}
+	},
+	{
+		"id": 27916,
+		"brand": "Ericsson",
+		"phone": "Ericsson T68",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert68.gif",
+		"release": {
+			"announceDate": "2001 Q4",
+			"priceEur": 650
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 80 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Ion battery (BST-14)"
+		}
+	},
+	{
+		"id": 22477,
+		"brand": "Ericsson",
+		"phone": "Ericsson T66",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert66.gif",
+		"release": {
+			"announceDate": "2001 Q4",
+			"priceEur": 250
+		},
+		"sim": "Mini-SIM",
+		"resolution": "5 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 22822,
+		"brand": "Ericsson",
+		"phone": "Ericsson T65",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert65.gif",
+		"release": {
+			"announceDate": "2001 Q4",
+			"priceEur": 250
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 67 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Ion battery"
+		}
+	},
+	{
+		"id": 28504,
+		"brand": "Ericsson",
+		"phone": "Ericsson T39",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert39.gif",
+		"release": {
+			"announceDate": "2001",
+			"priceEur": 440
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 54 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 24415,
+		"brand": "Ericsson",
+		"phone": "Ericsson A3618",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/era3618.gif",
+		"release": {
+			"announceDate": "2001 Q3",
+			"priceEur": 400
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 20070,
+		"brand": "Ericsson",
+		"phone": "Ericsson T29s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert29.gif",
+		"release": {
+			"announceDate": "2001 February",
+			"priceEur": 420
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 24642,
+		"brand": "Ericsson",
+		"phone": "Ericsson R520m",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err520m.gif",
+		"release": {
+			"announceDate": "2001",
+			"priceEur": 360
+		},
+		"sim": "Mini-SIM",
+		"resolution": "5 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 29395,
+		"brand": "Ericsson",
+		"phone": "Ericsson T20e",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert20e.gif",
+		"release": {
+			"announceDate": "2001",
+			"priceEur": 350
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 21209,
+		"brand": "Ericsson",
+		"phone": "Ericsson A2628",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/era2628.gif",
+		"release": {
+			"announceDate": "2001",
+			"priceEur": 270
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 28160,
+		"brand": "Ericsson",
+		"phone": "Ericsson T20s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert20s.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 330
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 24751,
+		"brand": "Ericsson",
+		"phone": "Ericsson T36",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert36b.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 300
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Po battery"
+		}
+	},
+	{
+		"id": 27964,
+		"brand": "Ericsson",
+		"phone": "Ericsson R380",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err380b.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "Big",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 25736,
+		"brand": "Ericsson",
+		"phone": "Ericsson R320",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err320b.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 300
+		},
+		"sim": "Mini-SIM",
+		"resolution": "5 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 22765,
+		"brand": "Ericsson",
+		"phone": "Ericsson R310s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err310s.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 350
+		},
+		"sim": "Mini-SIM",
+		"resolution": "5 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 26525,
+		"brand": "Ericsson",
+		"phone": "Ericsson A2618",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/era2618b.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 500
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	},
+	{
+		"id": 24423,
+		"brand": "Ericsson",
+		"phone": "Ericsson R250s PRO",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/err250sb.gif",
+		"release": {
+			"announceDate": "2000",
+			"priceEur": 340
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 lines",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable battery"
+		}
+	},
+	{
+		"id": 24752,
+		"brand": "Ericsson",
+		"phone": "Ericsson T28 World",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert28wb.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 400
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Po 500 mAh battery"
+		}
+	},
+	{
+		"id": 25834,
+		"brand": "Ericsson",
+		"phone": "Ericsson T28s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert28sb.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 290
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable Li-Po 500 mAh battery"
+		}
+	},
+	{
+		"id": 21339,
+		"brand": "Ericsson",
+		"phone": "Ericsson T18s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert18sb.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 190
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 750 mAh battery"
+		}
+	},
+	{
+		"id": 27790,
+		"brand": "Ericsson",
+		"phone": "Ericsson T10s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ert10sb.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 370
+		},
+		"sim": "Mini-SIM",
+		"resolution": "101 x 33 pixels",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 750 mAh battery"
+		}
+	},
+	{
+		"id": 28354,
+		"brand": "Ericsson",
+		"phone": "Ericsson A1018s",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/er1018sb.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 800 mAh battery"
+		}
+	},
+	{
+		"id": 26894,
+		"brand": "Ericsson",
+		"phone": "Ericsson I 888",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/eri888b.gif",
+		"release": {
+			"announceDate": "1999",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 800 mAh battery"
+		}
+	},
+	{
+		"id": 22615,
+		"brand": "Ericsson",
+		"phone": "Ericsson SH 888",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ersh888b.gif",
+		"release": {
+			"announceDate": "1998",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 800 mAh battery"
+		}
+	},
+	{
+		"id": 29494,
+		"brand": "Ericsson",
+		"phone": "Ericsson S 868",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ers868b.gif",
+		"release": {
+			"announceDate": "1998",
+			"priceEur": 150
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 800 mAh battery"
+		}
+	},
+	{
+		"id": 24154,
+		"brand": "Ericsson",
+		"phone": "Ericsson GF 788e",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/erg788eb.gif",
+		"release": {
+			"announceDate": "1997",
+			"priceEur": 410
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 10 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 550 mAh battery"
+		}
+	},
+	{
+		"id": 22529,
+		"brand": "Ericsson",
+		"phone": "Ericsson GF 788",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergf788b.gif",
+		"release": {
+			"announceDate": "1997",
+			"priceEur": 310
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 10 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 550 mAh battery"
+		}
+	},
+	{
+		"id": 26988,
+		"brand": "Ericsson",
+		"phone": "Ericsson PF 768",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/erpf768b.gif",
+		"release": {
+			"announceDate": "1997",
+			"priceEur": 110
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 10 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 550 mAh battery"
+		}
+	},
+	{
+		"id": 23252,
+		"brand": "Ericsson",
+		"phone": "Ericsson GF 768",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergf768b.gif",
+		"release": {
+			"announceDate": "1997",
+			"priceEur": 90
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 10 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 550 mAh battery"
+		}
+	},
+	{
+		"id": 29527,
+		"brand": "Ericsson",
+		"phone": "Ericsson GH 688",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergh688b.gif",
+		"release": {
+			"announceDate": "1996",
+			"priceEur": 420
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 1200 mAh battery"
+		}
+	},
+	{
+		"id": 23221,
+		"brand": "Ericsson",
+		"phone": "Ericsson GA 628",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/erga628b.gif",
+		"release": {
+			"announceDate": "1996",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 1000 mAh battery"
+		}
+	},
+	{
+		"id": 26466,
+		"brand": "Ericsson",
+		"phone": "Ericsson GF 388",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergf388b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 200
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 915 mAh battery"
+		}
+	},
+	{
+		"id": 25830,
+		"brand": "Ericsson",
+		"phone": "Ericsson GH 388",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergh388b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 150
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 915 mAh battery"
+		}
+	},
+	{
+		"id": 28424,
+		"brand": "Ericsson",
+		"phone": "Ericsson GS 337",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergs337b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 410
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 915 mAh battery"
+		}
+	},
+	{
+		"id": 21386,
+		"brand": "Ericsson",
+		"phone": "Ericsson GF 337",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergf337b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 310
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 915 mAh battery"
+		}
+	},
+	{
+		"id": 29390,
+		"brand": "Ericsson",
+		"phone": "Ericsson GH 337",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergh337b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 110
+		},
+		"sim": "Mini-SIM",
+		"resolution": "3 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 915 mAh battery"
+		}
+	},
+	{
+		"id": 23586,
+		"brand": "Ericsson",
+		"phone": "Ericsson GA 318",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/erga318b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 150
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 1200 mAh battery"
+		}
+	},
+	{
+		"id": 20643,
+		"brand": "Ericsson",
+		"phone": "Ericsson GS 18",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergs18b.gif",
+		"release": {
+			"announceDate": "1996",
+			"priceEur": 410
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 1200 mAh battery"
+		}
+	},
+	{
+		"id": 25670,
+		"brand": "Ericsson",
+		"phone": "Ericsson GO 118",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergo118b.gif",
+		"release": {
+			"announceDate": "1995",
+			"priceEur": 310
+		},
+		"sim": "Mini-SIM",
+		"resolution": "4 x 12 chars",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH 1200 mAh battery"
+		}
+	},
+	{
+		"id": 28193,
+		"brand": "Ericsson",
+		"phone": "Ericsson GH 218",
+		"picture": "https://cdn2.gsmarena.com/vv/bigpic/ergh218b.gif",
+		"release": {
+			"announceDate": "1994",
+			"priceEur": 110
+		},
+		"sim": "Mini-SIM",
+		"resolution": "1 line",
+		"hardware": {
+			"audioJack": "No",
+			"gps": "No",
+			"battery": "Removable NiMH battery"
+		}
+	}
+]

@@ -13,7 +13,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import com.store.mobile.api.exception.ApiException;
 
 /**
- * 
+ * Validate input parameters for allowed characters
  * @author mohammad.miyan
  *
  */

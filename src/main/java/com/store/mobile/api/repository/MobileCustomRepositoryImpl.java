@@ -1,7 +1,6 @@
 package com.store.mobile.api.repository;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +17,7 @@ import org.springframework.util.StringUtils;
 import com.store.mobile.api.entity.Mobile;
 
 /**
- * Purpose of this implementation is to return the list of all mobiles
+ * Returns the list of all Mobiles based on filter criteria applied
  * @author mohammad.miyan
  *
  */

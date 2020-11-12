@@ -9,7 +9,7 @@ import com.store.mobile.api.entity.Mobile;
 import com.store.mobile.api.repository.MobileRepository;
 
 /**
- * Purpose of this service is to fetch all mobiles based on the properties
+ *Fetch all Mobiles based on the properties
  * 
  * @author mohammad.miyan
  *

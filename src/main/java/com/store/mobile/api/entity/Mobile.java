@@ -23,3 +23,22 @@ public class Mobile {
 	private String resolution;
 	private Hardware hardware;
 }
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+class Hardware {
+	private String audioJack;
+	private String gps;
+	private String battery;
+}
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+ class Release {
+	private String announceDate;
+	private Double priceEur;
+}

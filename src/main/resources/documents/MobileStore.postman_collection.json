@@ -1,0 +1,80 @@
+{
+	"info": {
+		"_postman_id": "9182e37e-ddea-4abf-9fcb-555001c1b62e",
+		"name": "MobileStore",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/mobile/search?announceDate=1999&priceEur=200",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/mobile/search?announceDate=1999&priceEur=200",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"mobile",
+						"search"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "28354",
+							"disabled": true
+						},
+						{
+							"key": "brand",
+							"value": "apple",
+							"disabled": true
+						},
+						{
+							"key": "sim",
+							"value": "Mini-SIM",
+							"disabled": true
+						},
+						{
+							"key": "picture",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "announceDate",
+							"value": "1999"
+						},
+						{
+							"key": "priceEur",
+							"value": "200"
+						},
+						{
+							"key": "resolution",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "audioJack",
+							"value": "NO",
+							"disabled": true
+						},
+						{
+							"key": "gps",
+							"value": "No",
+							"disabled": true
+						},
+						{
+							"key": "battery",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
