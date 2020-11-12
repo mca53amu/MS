@@ -13,7 +13,7 @@ import com.store.mobile.api.interceptor.ValidatorInterceptor;
  */
 @Configuration
 @EnableWebMvc
-public class PortalWebMvcConfiguration implements WebMvcConfigurer {
+public class ApiWebMvcConfiguration implements WebMvcConfigurer {
 	@Autowired
 	private ValidatorInterceptor validatorInterceptor;
 

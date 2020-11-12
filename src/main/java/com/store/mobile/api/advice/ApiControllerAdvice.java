@@ -21,8 +21,8 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestControllerAdvice
-public class RateControllerAdvice extends ResponseEntityExceptionHandler {
-	private static final Logger LOGGER = LoggerFactory.getLogger(RateControllerAdvice.class);
+public class ApiControllerAdvice extends ResponseEntityExceptionHandler {
+	private static final Logger LOGGER = LoggerFactory.getLogger(ApiControllerAdvice.class);
 	@Autowired
 	private HttpServletRequest request;
 
