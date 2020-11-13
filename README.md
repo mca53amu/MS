@@ -1,4 +1,4 @@
-For problem statements and data import go to src/main/resources/documents
+For problem statements and data import go to src/main/resources/documents/Mobile Store.png
 
 Prerequisites-
 Run MongoDB on port 27017
